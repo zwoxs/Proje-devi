@@ -1,0 +1,23 @@
+[
+    {
+      "item_id": 1,
+      "item_name": "PvP Kiti",
+      "item_price": 100
+    },
+    {
+      "item_id": 2,
+      "item_name": "PvP Zırhı",
+      "item_price": 200
+    },
+    {
+      "item_id": 3,
+      "item_name": "PvP Kılıcı",
+      "item_price": 150
+    },
+    {
+      "item_id": 4,
+      "item_name": "PvP Kafası",
+      "item_price": 120
+    }
+  ]
+  
